@@ -1,1 +1,1 @@
-console.log("Hello, Hexlet!");
+ecconsole.log('Hello, Hexlet!')
