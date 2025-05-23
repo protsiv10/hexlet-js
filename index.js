@@ -1,2 +1,4 @@
-import _ from 'lodash'
-console.log(_.last(['one', 'two']))
+// index.js
+import run from './src/index.js';
+
+run();
